@@ -10,7 +10,7 @@ This app was made in python2, which was already deprecated at the time, because 
 If you want to run it, use python 2.7 and tkinter. It should work, though you might also have to fix some minor bugs before it runs, entropy is real. 
 
 # Desktop App Template
-This project was later forked into [desktop-app-template](https://github.com/yaq1n0/desktop-app-template). 
+The core desktop app functionality in this project was then turned into [DesktopAppTemplate](https://github.com/yaq1n0/DesktopAppTemplate). 
 Which has python 3 support and will be carried over into the future :)
 
 # How to get this ancient thing to work :p
